@@ -1,1 +1,3 @@
-// admin.js – full user management UI with Logout
+export default function AdminPage() {
+  return <h1>ניהול משתמשים</h1>;
+}
